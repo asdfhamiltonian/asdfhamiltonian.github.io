@@ -37,7 +37,7 @@ kramdown:
 #
 owner:
   name: Max Hirsh
-  avatar: bio-photo.jpg
+  avatar: avatar.jpg
   bio: "Python/Django developer, physics enthusiast."
   email: max.s.hirsh@gmail.com
   disqus-shortname: #
