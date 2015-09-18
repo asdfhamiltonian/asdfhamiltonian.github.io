@@ -5,9 +5,9 @@ permalink: /about/
 ---
 
 {% if author.avatar contains 'http' %}
-	<img src="{{ author.avatar }}" class="bio-photo" alt="{{ author.name }} bio photo">
+<img src="{{ author.avatar }}" class="bio-photo" alt="{{ author.name }} bio photo">
 {% else %}
-	<img src="{{ site.url }}/img/{{ author.avatar }}" class="bio-photo" alt="{{ author.name }} bio photo">
+<img src="{{ site.url }}/img/{{ author.avatar }}" class="bio-photo" alt="{{ author.name }} bio photo">
 {% endif %}
 
 My name is Max Hirsh. I majored in Physics at the University of Oregon and graduated in June 2013. I like solving complex problems and have spent the past several months learning several programming languages through teamtreehouse, codeacademy and other online tutorials. I like how programming makes it possible to apply physics to build programs that do things like model the solar system, predict astronomical phenomena, or quickly solve problems that would take days to workout by hand.
