@@ -13,4 +13,4 @@ I am a fan of Python and used it to program several astronomy related projects i
 
 My hobbies include running, jazz piano and learning Japanese. I currently work as a medical scribe in Vancouver, Washington. In my free time I also like to read up about the latest NASA missions or use my python apps for amateur astronomy.
 
-I can be reached by email at max.s.hirsh@gmail.com. Links to my LinkedIn and GitHub profiles are on the left.
+I can be reached by email at [max.s.hirsh@gmail.com](mailto:max.s.hirsh@gmail.com). Links to my LinkedIn and GitHub profiles are on the left.
