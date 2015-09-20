@@ -4,6 +4,16 @@ layout: default
 
 ##Projects
 
+### Planets API
+
+#### September 2015 - Present
+
+Simple RESTful API implementation of my planets app using flask. More information in the readme on GitHub.
+
+[Sample API call](http://planetsapi.herokuapp.com/PositionNow/45.523080/-122.681124)
+
+[Github link](https://github.com/asdfhamiltonian/planets_api/blob/master/)
+
 ### Planets
 
 #### May 2015 - Present
