@@ -12,7 +12,7 @@ Simple RESTful API implementation of my planets app using flask. More informatio
 
 [Sample API call](http://planetsapi.herokuapp.com/PositionNow/45.523080/-122.681124)
 
-[Github link](https://github.com/asdfhamiltonian/planets_api/blob/master/)
+[Github link](https://github.com/asdfhamiltonian/planets_api/)
 
 ### Planets
 
