@@ -4,6 +4,28 @@ title: Projects
 permalink: /projects/
 ---
 
+### hyougaibot
+
+#### October 2015 - Present
+
+Twitter bot that tweets readings, definitions and dictionary references for nonstandard kanji characters (hyougaiji) that are not everyday use characters (joyoji) or characters for use in names (jimeiyoji). Information on the hyougaiji was filtered from a larger kanji dictionary. Significant parts of the twitter interface design for this bot were adapted from/inspired by github user tpinecone's hello-world-bot.
+
+This project uses the [KANJIDIC](http://www.edrdg.org/jmdict/edict.html) dictionary file. This file is the property of the Electronic Dictionary Research Group, and is used in accordance with the group's license.
+
+[Github link](https://github.com/asdfhamiltonian/hyougaibot/)
+
+[twitter](https://twitter.com/hyougai_bot/)
+
+### KanjiAnalyze
+
+#### October 2015 - Present
+
+Script that extracts an ordered dictionary of kanji (Chinese characters) from a larger file, then uses it to analyze Japanese texts. It returns basic statistics (mean, variance, standard deviation, total) for the grade, Japanese Language Proficiency Test (JLPT) level, and frequency ranking of the kanji in the text.
+
+This project also uses the [KANJIDIC](http://www.edrdg.org/jmdict/edict.html) dictionary file. This file is the property of the Electronic Dictionary Research Group, and is used in accordance with the group's license.
+
+[Github link](https://github.com/asdfhamiltonian/kanjiAnalyze/)
+
 ### Planets API
 
 #### September 2015 - Present
@@ -18,7 +40,7 @@ Simple RESTful API implementation of my planets app using flask. More informatio
 
 #### May 2015 - Present
 
-Python object that can give the current right ascension, declination, azimuth, and elevation of the planets for any location on earth. Can also approximately calculate these parameters for Pluto. Uses algorithms/equations from ["How to Compute Planetary Positions"](http://www.stjarnhimlen.se/comp/ppcomp.html#20) by Paul Schlyter.
+Python object that gives the current right ascension, declination, azimuth, and elevation of the planets for any location on earth. Can also approximately calculate these parameters for Pluto. Uses algorithms/equations from ["How to Compute Planetary Positions"](http://www.stjarnhimlen.se/comp/ppcomp.html#20) by Paul Schlyter.
 
 [Github link](https://github.com/asdfhamiltonian/planets/blob/master/planets.py)
 
