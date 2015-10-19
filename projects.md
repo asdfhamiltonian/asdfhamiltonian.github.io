@@ -8,7 +8,7 @@ permalink: /projects/
 
 #### October 2015 - Present
 
-Twitter bot that tweets readings, definitions and dictionary references for nonstandard kanji characters (hyougaiji) that are not everyday use characters (joyoji) or characters for use in names (jimeiyoji). Information on the hyougaiji was filtered from a larger kanji dictionary. Significant parts of the twitter interface design for this bot were adapted from/inspired by github user tpinecone's hello-world-bot.
+Twitter bot that tweets readings, definitions and dictionary references for nonstandard kanji characters (hyougaiji). Information on the hyougaiji was filtered from a larger kanji dictionary. Significant parts of the twitter interface design for this bot were adapted from/inspired by github user tpinecone's hello-world-bot.
 
 This project uses the [KANJIDIC](http://www.edrdg.org/jmdict/edict.html) dictionary file. This file is the property of the Electronic Dictionary Research Group, and is used in accordance with the group's license.
 
