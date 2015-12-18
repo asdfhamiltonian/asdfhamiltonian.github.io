@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-### hyougaibot
+### Hyougaibot
 
 #### October 2015 - Present
 

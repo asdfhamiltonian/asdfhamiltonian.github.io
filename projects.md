@@ -4,7 +4,7 @@ title: Projects
 permalink: /projects/
 ---
 
-### hyougaibot
+### Hyougaibot
 
 #### October 2015 - Present
 
